@@ -1,0 +1,3 @@
+﻿  sudokuSolver.cpp
+C:\Users\ACER\source\repos\sudokuSolver\sudokuSolver\sudokuSolver.cpp(162,9): warning C4101: 't': unreferenced local variable
+  sudokuSolver.vcxproj -> C:\Users\ACER\source\repos\sudokuSolver\x64\Debug\sudokuSolver.exe
